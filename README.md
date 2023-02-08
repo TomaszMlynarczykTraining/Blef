@@ -18,6 +18,8 @@
 ## How to run for the first time
 
 ```cmd
+
+Some notes
 $ dotnet run --project ./src/Blef.Bootstrapper/Blef.Bootstrapper.csproj
 ```
 _then open your web browser to https://localhost:49153/swagger_
